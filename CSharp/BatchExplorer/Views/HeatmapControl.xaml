@@ -55,7 +55,7 @@
                 Grid.Row="1" 
                 Grid.Column="1" 
                 Padding="5,1"
-                Text="{Binding Path=HeatMap.VMSize, Mode=OneWay}" 
+                Text="{Binding Path=HeatMap.VirtualMachineSize, Mode=OneWay}" 
                 HorizontalAlignment="Left"
                 VerticalAlignment="Center"
                 IsReadOnly="True"
